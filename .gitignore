@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+*.swp
+*.plist
+*.dSYM
+.vscode/launch
+.vscode/tasks
