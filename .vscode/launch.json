@@ -9,7 +9,7 @@
       "type": "cppdbg",
       "request": "launch",
       "program": "${fileDirname}/${fileBasenameNoExtension}.out",
-      "args": ["~/Desktop/selfie.jpeg"],
+      "args": ["~/Desktop/selfie.jpeg","~/Desktop/selfie_out.jpeg"],
       "stopAtEntry": false,
       "cwd": "${workspaceFolder}",
       "environment": [],

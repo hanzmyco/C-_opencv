@@ -36,3 +36,5 @@
 *.dSYM
 .vscode/launch
 .vscode/tasks
+build/
+resources/
